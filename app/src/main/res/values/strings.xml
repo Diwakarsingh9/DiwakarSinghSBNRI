@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Diwakar Singh SBNRI</string>
+    <string name="something_went_wrong">No Internet Connection</string>
+    <string name="an_alien_is_probably_blocking_your_signal">An alien is probably blocking your signal</string>
+    <string name="retry">Retry</string>
+    <string name="permissions">Permissions</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="license">License</string>
+    <string name="GitHub">GitHub</string>
+</resources>
